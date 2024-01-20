@@ -1,0 +1,142 @@
+body {
+    background-color: rgba(36, 37, 38, 0.838);
+    margin: 0px;
+}
+.first {
+    background-image: url('netflix-background-gs7hjuwvv2g0e9fj.jpg');
+    height: 800px;
+    
+}
+.nav {
+display: flex;
+height: 100px;
+justify-content: space-around;
+
+
+
+}
+.signin {
+    justify-content: end;
+    background-color: red;
+    color: white;
+    height: 40px;
+    width: 75px;
+    font-weight: bold;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+.para {
+    text-align: center;
+    padding: 70px;
+    color: white;
+}
+h1 {
+    font-size: 400%;
+
+}
+input {
+    height: 45px;
+    width: 370px;
+}
+.butt {
+    height: 50px;
+    width: 150px;
+    background-color: red;
+    font-size: large;
+    color: white;
+    border-radius: 15px;
+    border: none;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.second {
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+    height: 600px;
+    text-align: center;
+    align-items: center;
+    margin-top: 7px;
+}
+.third {
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+    height: 600px;
+    text-align: center;
+    align-items: center;
+    margin-top: 7px;
+}
+.fourth {
+    display: flex;
+    background-color: black;
+    color: white;
+    height: 400px;
+    padding-left: 400px;
+    padding-top: 100px;
+    margin-top: 7px;
+}
+.fifth {
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+    height: 600px;
+    text-align: center;
+    align-items: center;
+    margin-top: 7px;
+}
+.sixth {
+    background-color: black;
+    color: white;
+    height: 900px;
+    margin-top: 7px;
+}
+.paraone {
+    height: 80px;
+    background-color: rgba(91, 92, 94, 0.499);
+    font-size: 30px;
+    margin-left: 150px;
+    margin-right: 200px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 8px;
+}
+.paraone:hover {
+    background-color: rgb(67, 65, 65);
+}
+
+.paraseven {
+    font-size: 20px;
+    text-align: center;
+}
+.plus1 {
+    margin-top:  10px;
+    margin-right: 12px;
+}
+.one {
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.FAQ {
+    text-align: center;
+    margin-top: 6px;
+}
+.FAQ1 {
+
+}
+.email2 {
+    margin-left: 400px;
+    
+}
+.navimg {
+    width: 350px;
+    height: 100px;
+    
+}
+.email {
+    border-radius: 15px;
+    border: none;
+}
